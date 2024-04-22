@@ -36,6 +36,7 @@ p{
     font-size: 16px;
 	font-weight: 400;
 	color: #4E6FAE;
+	font-family: "Arial GEO", sans-serif;
 }
 .line{
 	display: inline-block;
@@ -59,4 +60,10 @@ h1{
 }
 .sur{
 	vertical-align: top;
+	width: 900px;
+	height: 500px;
+}
+.info{
+	display: inline-block;
+	width: 474px;
 }

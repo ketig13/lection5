@@ -60,6 +60,8 @@ h5{
 	width: 500px;
 	height: 192px;
 	margin-bottom: 50px;
+	display: inline-block;
+	vertical-align: middle;
 }
 .text{
 	display: inline-block;

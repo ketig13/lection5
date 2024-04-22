@@ -78,7 +78,7 @@ p{
 	vertical-align: middle;
 	margin: 0 41px;
 }
-h4{
+/*h4{
 	display: inline-block;
 	font-size: 26px;
 	font-weight: 700;
@@ -102,15 +102,15 @@ h5{
 	height: 192px;
 	vertical-align: top;
 	margin-left: 66px;
-}*/
-.text{
+}*/*/
+/*.text{
 	display: inline-block;
 	width: 335px;
 	height: 95px;
 	vertical-align: top;
 	margin: 20px;
-}
-.s{
+}*/
+/*.s{
 	vertical-align: top;
 	line-height: 40px;
 }
@@ -129,4 +129,4 @@ h1{
 }
 .sur{
 	vertical-align: top;
-}
+}*/
